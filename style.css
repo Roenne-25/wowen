@@ -1,0 +1,18 @@
+<head>
+    <link
+    rel="stylesheet"
+    href="style.css"/>
+</head>
+body{
+    background:lavender;
+}
+
+h1,p{
+    text-align:center;
+}
+img{
+    width:250px;
+}
+li{
+    color:cadetblue;
+}
