@@ -1,6 +1,8 @@
 body{
 
-    background: linear-gradient(lavender,lightblue,lightpink)
+    background: linear-gradient(lavender,lightblue,lightpink);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h1,p{
